@@ -1,0 +1,5 @@
+i=0;
+while [ -f "$1.backup.$i" ]; do
+ ((i=i+1 )) ;
+done
+cp $1 "$1.backup.$i"

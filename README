@@ -1,0 +1,7 @@
+Readme about these little tools
+#1 backup
+backup a file with extionsion .backup.NUM
+#2 gpufreq-set
+set gpu frequence. Options are mid, high, low. Well, to use this we need xf86-video-ati open-source driver and some other prerequisitives.
+#3 oj
+For the convience to do oj. And actually it has features that facilate the debug of one-file c project.

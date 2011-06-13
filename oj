@@ -1,0 +1,12 @@
+#!/bin/zsh
+if [$# -lt 2 ]
+	then gcc "$1.c$" -o $1
+	else while getopts d: o
+do
+	case $o in
+		d) gcc -Ddebug "$1.c" -o $1;;
+		\?)echo "Usage:$0 [-d] filename;;
+esac
+done
+fi
+[ -x "$1" ] && . "$1"
