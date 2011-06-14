@@ -2,13 +2,13 @@
 if [ $# -lt 2 ]
 	then gcc "$1.c" -o $1
 		
-        [ -x "$1" ] && ./$1
+        [ $? -eq 0 ] && [ -x "$1" ] && ./$1
 	else 
 		while getopts d: o
 do
 	case $o in
 		d) gcc -Ddebug "$OPTARG.c" -o "$OPTARG"
-                   [ -x "$OPTARG" ] && ./"$OPTARG";;
+                   [ $? -eq 0 ] && [  -x "$OPTARG" ] && ./"$OPTARG";;
 		\?)echo "Usage:$0 [-d] filename";;
 esac
 done
