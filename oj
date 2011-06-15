@@ -1,14 +1,14 @@
 #!/bin/zsh
 if [ $# -lt 2 ]
-	then gcc "$1.c" -o $1
+	then [ -e "$1.c" ] && gcc "$1.c" -o $1 && [ $? -eq 0 ] && [ -x "$1" ] && ./$1
+		[ -e "$1.cpp" ] && g++ "$1.cpp" -o $1 && [ $? -eq 0 ] && [ -x "$1" ] && ./$1
 		
-        [ $? -eq 0 ] && [ -x "$1" ] && ./$1
 	else 
 		while getopts d: o
 do
 	case $o in
-		d) gcc -Ddebug "$OPTARG.c" -o "$OPTARG"
-                   [ $? -eq 0 ] && [  -x "$OPTARG" ] && ./"$OPTARG";;
+		d) [ -e "$OPTARG.c" ] && gcc -Ddebug "$OPTARG.c" -o "$OPTARG" && [ $? -eq 0 ] && [ -x "$OPTARG" ] && ./"$OPTARG"
+		[ -e "$OPTARG.cpp" ] && g++ -Ddebug "$OPTARG.cpp" -o "$OPTARG" && [ $? -eq 0 ] && [ -x "$OPTARG" ] && ./"$OPTARG";;
 		\?)echo "Usage:$0 [-d] filename";;
 esac
 done
