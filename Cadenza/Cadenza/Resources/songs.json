@@ -1,0 +1,113 @@
+[
+  {
+    "id": "mary-lamb",
+    "title": "Mary Had a Little Lamb",
+    "composer": "Traditional",
+    "level": "beginner",
+    "genre": "Children's",
+    "tempo": 100,
+    "beatsPerBar": 4,
+    "key": "C major",
+    "right": "E4:1 D4 C4 D4 | E4 E4 E4:2 | D4:1 D4 D4:2 | E4:1 G4 G4:2 | E4:1 D4 C4 D4 | E4 E4 E4 E4 | D4 D4 E4 D4 | C4:4",
+    "left": "C3:4 | C3:4 | G2:4 | C3:4 | C3:4 | C3:4 | G2:4 | C3:4"
+  },
+  {
+    "id": "twinkle",
+    "title": "Twinkle, Twinkle, Little Star",
+    "composer": "Traditional",
+    "level": "beginner",
+    "genre": "Children's",
+    "tempo": 104,
+    "beatsPerBar": 4,
+    "key": "C major",
+    "right": "C4:1 C4 G4 G4 | A4 A4 G4:2 | F4:1 F4 E4 E4 | D4 D4 C4:2 | G4:1 G4 F4 F4 | E4 E4 D4:2 | G4:1 G4 F4 F4 | E4 E4 D4:2 | C4:1 C4 G4 G4 | A4 A4 G4:2 | F4:1 F4 E4 E4 | D4 D4 C4:2",
+    "left": "C3:4 | F3:2 C3 | F3 C3 | G2 C3 | C3 F3 | C3 G2 | C3 F3 | C3 G2 | C3:4 | F3:2 C3 | F3 C3 | G2 C3"
+  },
+  {
+    "id": "ode-to-joy",
+    "title": "Ode to Joy",
+    "composer": "Ludwig van Beethoven",
+    "level": "easy",
+    "genre": "Classical",
+    "tempo": 100,
+    "beatsPerBar": 4,
+    "key": "C major",
+    "right": "E4:1 E4 F4 G4 | G4 F4 E4 D4 | C4 C4 D4 E4 | E4:1.5 D4:0.5 D4:2 | E4:1 E4 F4 G4 | G4 F4 E4 D4 | C4 C4 D4 E4 | D4:1.5 C4:0.5 C4:2 | D4:1 D4 E4 C4 | D4:1 E4:0.5 F4 E4:1 C4 | D4:1 E4:0.5 F4 E4:1 D4 | C4 D4 G3:2 | E4:1 E4 F4 G4 | G4 F4 E4 D4 | C4 C4 D4 E4 | D4:1.5 C4:0.5 C4:2",
+    "left": "C3:4 | G2:4 | C3:4 | G2:4 | C3:4 | G2:4 | C3:4 | G2:2 C3 | G2:4 | G2:2 C3 | G2:4 | C3:2 G2 | C3:4 | G2:4 | C3:4 | G2:2 C3"
+  },
+  {
+    "id": "jingle-bells",
+    "title": "Jingle Bells",
+    "composer": "James Lord Pierpont",
+    "level": "easy",
+    "genre": "Holiday",
+    "tempo": 120,
+    "beatsPerBar": 4,
+    "key": "C major",
+    "right": "E4:1 E4 E4:2 | E4:1 E4 E4:2 | E4:1 G4 C4:1.5 D4:0.5 | E4:4 | F4:1 F4 F4:1.5 F4:0.5 | F4:1 E4 E4 E4:0.5 E4 | E4:1 D4 D4 E4 | D4:2 G4 | E4:1 E4 E4:2 | E4:1 E4 E4:2 | E4:1 G4 C4:1.5 D4:0.5 | E4:4 | F4:1 F4 F4:1.5 F4:0.5 | F4:1 E4 E4 E4:0.5 E4 | G4:1 G4 F4 D4 | C4:4",
+    "left": "C3:2 G3 | C3 G3 | C3 G3 | C3 G3 | F3 C3 | C3 G3 | G2 D3 | G2 B2 | C3 G3 | C3 G3 | C3 G3 | C3 G3 | F3 C3 | C3 G3 | G2 B2 | C3:4"
+  },
+  {
+    "id": "brahms-lullaby",
+    "title": "Lullaby (Wiegenlied)",
+    "composer": "Johannes Brahms",
+    "level": "easy",
+    "genre": "Classical",
+    "tempo": 84,
+    "beatsPerBar": 3,
+    "pickup": 1,
+    "key": "C major",
+    "right": "E4:0.5 E4 | G4:2 E4:0.5 E4 | G4:2 E4:0.5 G4 | C5:1 B4:1.5 A4:0.5 | A4:1 G4 D4:0.5 E4 | F4:1 D4 D4:0.5 E4 | F4:2 D4:0.5 F4 | B4:0.5 A4 G4:1 B4 | C5:2 C4:0.5 C4 | C5:2 A4:0.5 F4 | G4:2 E4:0.5 C4 | F4:1 G4 A4 | G4:2 C4:0.5 C4 | C5:2 A4:0.5 F4 | G4:2 E4:0.5 C4 | F4:1 E4 D4 | C4:2",
+    "left": "r:1 | C3:3 | C3 | F3 | C3:2 G2:1 | G2:3 | G2 | G2 | C3 | F3 | C3 | G2 | C3 | F3 | C3 | G2 | C3:2"
+  },
+  {
+    "id": "minuet-in-g",
+    "title": "Minuet in G",
+    "composer": "Christian Petzold",
+    "level": "intermediate",
+    "genre": "Classical",
+    "tempo": 112,
+    "beatsPerBar": 3,
+    "key": "G major",
+    "right": "D5:1 G4:0.5 A4 B4 C5 | D5:1 G4 G4 | E5:1 C5:0.5 D5 E5 F#5 | G5:1 G4 G4 | C5:1 D5:0.5 C5 B4 A4 | B4:1 C5:0.5 B4 A4 G4 | F#4:1 G4:0.5 A4 B4 G4 | A4:3 | D5:1 G4:0.5 A4 B4 C5 | D5:1 G4 G4 | E5:1 C5:0.5 D5 E5 F#5 | G5:1 G4 G4 | C5:1 D5:0.5 C5 B4 A4 | B4:1 C5:0.5 B4 A4 G4 | A4:1 B4:0.5 A4 G4 F#4 | G4:3",
+    "left": "G3+B3:2 A3:1 | B3:3 | C4:3 | B3:3 | A3:3 | G3:3 | D4:1 B3 G3 | D4:1 D3 C4 | G3+B3:2 A3:1 | B3:3 | C4:3 | B3:3 | A3:3 | G3:3 | D3:3 | G2:3"
+  },
+  {
+    "id": "fur-elise",
+    "title": "Für Elise (Theme)",
+    "composer": "Ludwig van Beethoven",
+    "level": "intermediate",
+    "genre": "Classical",
+    "tempo": 150,
+    "beatsPerBar": 3,
+    "beatUnit": 8,
+    "pickup": 1,
+    "key": "A minor",
+    "right": "E5:0.5 D#5 | E5 D#5 E5 B4 D5 C5 | A4:1 r:0.5 C4 E4 A4 | B4:1 r:0.5 E4 G#4 B4 | C5:1 r:0.5 E4 E5 D#5 | E5 D#5 E5 B4 D5 C5 | A4:1 r:0.5 C4 E4 A4 | B4:1 r:0.5 E4 C5 B4 | A4:2",
+    "left": "r:1 | r:3 | A2:0.5 E3 A3 r:1.5 | E2:0.5 E3 G#3 r:1.5 | A2:0.5 E3 A3 r:1.5 | r:3 | A2:0.5 E3 A3 r:1.5 | E2:0.5 E3 G#3 r:1.5 | A2:0.5 E3 A3:1"
+  },
+  {
+    "id": "canon-in-d",
+    "title": "Canon in D",
+    "composer": "Johann Pachelbel",
+    "level": "intermediate",
+    "genre": "Classical",
+    "tempo": 72,
+    "beatsPerBar": 4,
+    "key": "D major",
+    "right": "F#5:2 E5 | D5 C#5 | B4 A4 | B4 C#5 | D5 C#5 | B4 A4 | G4 F#4 | G4 E4 | D4:1 F#4 A4 G4 | F#4 D4 F#4 E4 | D4 B3 D4 A4 | G4 B4 A4 G4 | F#4+D5:4 | D4+F#4+A4:4",
+    "left": "D3:2 A2 | B2 F#2 | G2 D2 | G2 A2 | D3 A2 | B2 F#2 | G2 D2 | G2 A2 | D3 A2 | B2 F#2 | G2 D2 | G2 A2 | D3:4 | D2+A2:4"
+  },
+  {
+    "id": "prelude-in-c",
+    "title": "Prelude in C (opening)",
+    "composer": "Johann Sebastian Bach",
+    "level": "advanced",
+    "genre": "Classical",
+    "tempo": 66,
+    "beatsPerBar": 4,
+    "key": "C major",
+    "right": "r:0.5 G4:0.25 C5 E5 G4 C5 E5 r:0.5 G4:0.25 C5 E5 G4 C5 E5 | r:0.5 A4:0.25 D5 F5 A4 D5 F5 r:0.5 A4:0.25 D5 F5 A4 D5 F5 | r:0.5 G4:0.25 D5 F5 G4 D5 F5 r:0.5 G4:0.25 D5 F5 G4 D5 F5 | r:0.5 G4:0.25 C5 E5 G4 C5 E5 r:0.5 G4:0.25 C5 E5 G4 C5 E5 | r:0.5 A4:0.25 E5 A5 A4 E5 A5 r:0.5 A4:0.25 E5 A5 A4 E5 A5 | r:0.5 F#4:0.25 A4 D5 F#4 A4 D5 r:0.5 F#4:0.25 A4 D5 F#4 A4 D5 | r:0.5 G4:0.25 D5 G5 G4 D5 G5 r:0.5 G4:0.25 D5 G5 G4 D5 G5 | r:0.5 E4:0.25 G4 C5 E4 G4 C5 r:0.5 E4:0.25 G4 C5 E4 G4 C5 | C4+E4+G4+C5:4",
+    "left": "C3+E3:2 C3+E3 | C3+D3 C3+D3 | B2+D3 B2+D3 | C3+E3 C3+E3 | C3+E3 C3+E3 | C3+D3 C3+D3 | B2+D3 B2+D3 | B2+C3 B2+C3 | C2+C3:4"
+  }
+]

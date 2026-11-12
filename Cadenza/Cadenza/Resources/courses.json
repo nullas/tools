@@ -1,0 +1,144 @@
+[
+  {
+    "id": "first-steps",
+    "title": "First Steps",
+    "subtitle": "Find your way around the keyboard",
+    "symbol": "hand.raised.fingers.spread",
+    "level": "beginner",
+    "lessons": [
+      {
+        "id": "middle-c",
+        "title": "Meet middle C",
+        "body": [
+          "The black keys come in groups of two and three. Find the group of two black keys closest to the middle of your piano.",
+          "The white key just to the left of that group is middle C. Every note you will learn is measured from here.",
+          "Rest your right thumb on middle C and play it every time a note reaches the line."
+        ],
+        "tempo": 70,
+        "beatsPerBar": 4,
+        "right": "C4:1 C4 C4 C4 | C4:2 C4 | C4:1 C4 C4:2 | C4:4"
+      },
+      {
+        "id": "five-fingers",
+        "title": "Five fingers, five notes",
+        "body": [
+          "Place your right-hand fingers on C, D, E, F and G: thumb on C, pinky on G. This is the C position.",
+          "Keep your fingers curved, as if you were holding a small ball. Each finger plays only its own key."
+        ],
+        "tempo": 80,
+        "beatsPerBar": 4,
+        "right": "C4:1 D4 E4 F4 | G4:4 | G4:1 F4 E4 D4 | C4:4 | C4:1 D4 E4 D4 | C4 D4 E4:2 | E4:1 F4 G4 F4 | E4 D4 C4:2"
+      },
+      {
+        "id": "left-hand",
+        "title": "Your left hand",
+        "body": [
+          "Your left hand mirrors your right. Place your pinky on the C below middle C and your thumb on G.",
+          "Left-hand notes are written on the bass staff, the lower of the two staves."
+        ],
+        "tempo": 80,
+        "beatsPerBar": 4,
+        "left": "C3:1 D3 E3 F3 | G3:4 | G3:1 F3 E3 D3 | C3:4"
+      },
+      {
+        "id": "hands-together",
+        "title": "Hands together",
+        "body": [
+          "Now combine both hands. The left hand holds long notes while the right hand moves.",
+          "Practise each hand alone first, then put them together. Wait mode will hold the music until you play the right notes."
+        ],
+        "tempo": 72,
+        "beatsPerBar": 4,
+        "right": "C4:2 E4 | G4:4 | G4:2 E4 | C4:4",
+        "left": "C3:4 | C3:4 | G2:4 | C3:4"
+      }
+    ]
+  },
+  {
+    "id": "reading-notes",
+    "title": "Reading Notes",
+    "subtitle": "Landmarks on the grand staff",
+    "symbol": "music.note.list",
+    "level": "easy",
+    "lessons": [
+      {
+        "id": "treble-landmarks",
+        "title": "Treble clef landmarks",
+        "body": [
+          "The treble clef curls around the second line from the bottom. That line is G above middle C.",
+          "Middle C sits on its own short line just below the treble staff. The C one octave higher is in the third space."
+        ],
+        "tempo": 76,
+        "beatsPerBar": 4,
+        "right": "C4:2 G4 | C5 G4 | C4:1 G4 C5 G4 | C4:4"
+      },
+      {
+        "id": "bass-landmarks",
+        "title": "Bass clef landmarks",
+        "body": [
+          "The two dots of the bass clef surround the fourth line. That line is F below middle C.",
+          "The C below middle C is in the second space of the bass staff."
+        ],
+        "tempo": 76,
+        "beatsPerBar": 4,
+        "left": "C3:2 F3 | C3 F2 | F2:1 C3 F3 C3 | F2:4"
+      },
+      {
+        "id": "steps-skips",
+        "title": "Steps and skips",
+        "body": [
+          "A step moves from a line to the next space, or from a space to the next line. A skip jumps over one note: line to line, or space to space.",
+          "Watch the shape of the notes and you will know where your hand is going before you read every name."
+        ],
+        "tempo": 84,
+        "beatsPerBar": 4,
+        "right": "C4:1 E4 G4 E4 | D4 F4 A4 F4 | E4 G4 B4 G4 | C5:4"
+      }
+    ]
+  },
+  {
+    "id": "chords",
+    "title": "Chords",
+    "subtitle": "Play your first harmonies",
+    "symbol": "pianokeys",
+    "level": "intermediate",
+    "lessons": [
+      {
+        "id": "c-triad",
+        "title": "The C major triad",
+        "body": [
+          "A triad is three notes stacked in skips. C major is C, E and G. Play them with your thumb, middle finger and pinky.",
+          "Press all three keys at the same moment. In wait mode the music moves on once every note of the chord is down."
+        ],
+        "tempo": 70,
+        "beatsPerBar": 4,
+        "right": "C4+E4+G4:2 C4+E4+G4 | C4:1 E4 G4 E4 | C4+E4+G4:4",
+        "left": "C3:4 | C3:4 | C3:4"
+      },
+      {
+        "id": "one-four-five",
+        "title": "I – IV – V – I",
+        "body": [
+          "Most popular songs are built on three chords: the I, IV and V of the key. In C major they are C, F and G.",
+          "Move your hand as little as possible: keep the shared notes where they are and slide only the fingers that must move."
+        ],
+        "tempo": 66,
+        "beatsPerBar": 4,
+        "right": "C4+E4+G4:4 | C4+F4+A4:4 | B3+D4+G4:4 | C4+E4+G4:4",
+        "left": "C3:4 | F2:4 | G2:4 | C3:4"
+      },
+      {
+        "id": "broken-chords",
+        "title": "Broken chords",
+        "body": [
+          "A broken chord plays the notes of a chord one after another. It is the most common left-hand accompaniment.",
+          "Keep your left hand still above the chord, and let your fingers do the moving."
+        ],
+        "tempo": 80,
+        "beatsPerBar": 4,
+        "right": "E4:4 | F4:4 | D4:4 | C4:4",
+        "left": "C3:1 G3 E3 G3 | F2 C3 A2 C3 | G2 D3 B2 D3 | C3:4"
+      }
+    ]
+  }
+]
